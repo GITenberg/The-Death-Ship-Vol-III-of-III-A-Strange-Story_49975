@@ -23,6 +23,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Death Ship, Vol. III (of III)
 
   A Strange Story'
